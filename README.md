@@ -4,7 +4,7 @@
 
 |#|Course|Done|Demo|
 |---|---|---|---|
-|1|JavaScript Drum Kit|✔️|[Demo](https://github.com/cv098150/JS30_Pratice/01_Drum_Kit/index.html)|
+|1|JavaScript Drum Kit|✔️|[Demo](https://cv098150.github.io/JS30_Pratice/01_JavaScript%20Drum%20Kit/index.html)|
 |2|CSS + JS Clock||
 |3|Playing with CSS Variables and JS||
 |4|Array Cardio Day||
