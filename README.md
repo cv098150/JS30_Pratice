@@ -1,7 +1,5 @@
 # JS30_Pratice
 
-# JS30 - gbuzz45 put demo
-
 |#|Course|Done|Demo|
 |---|---|---|---|
 |1|JavaScript Drum Kit|✔️|[Demo](https://cv098150.github.io/JS30_Pratice/01_JavaScript%20Drum%20Kit/index.html)|
